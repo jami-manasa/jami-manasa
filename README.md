@@ -33,12 +33,14 @@ Bachelors in Computer Science
 #### 💼 Work Experience
 Senior Software Engineer @ CloudEarl (2021-2023)
 
-Developed cloud optimization app saving 60% in costs . 
+Developed cloud optimization app saving 60% in costs. 
 Improved DB performance by 15% through query optimization
 Python Developer Intern @ CloudEarl (2021)
 
 #### 🏆 Accomplishments
 Tableau Visualization Certificate from Coursera
+
+
 Python for Data Science Certificate
 
 
