@@ -38,10 +38,10 @@ Improved DB performance by 15% through query optimization
 Python Developer Intern @ CloudEarl (2021)
 
 #### 🏆 Accomplishments
-([Tableau Visualization Certificate from Coursera](http://example.com))
+[Tableau Visualization Certificate from Coursera](https://www.coursera.org/account/accomplishments/verify/6VM6E62HUK4T?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
 
-Python for Data Science Certificate
+[Python for Data Science Certificate](https://www.credly.com/badges/f073772b-a184-440e-8a5e-edeb50012761)
 
 
 
