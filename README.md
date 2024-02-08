@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Manasa!
 #### I'm an aspiring computer scientist passionate about using code to solve real-world problems. I have experience building data pipelines, creating cloud cost optimization tools, chatbots leveraging NLP/ML, and interactive data visualizations.
 
-👩‍💻 Technical Skills & Interests
+#### 👩‍💻 Technical Skills & Interests
 
 
 
@@ -19,21 +19,25 @@ Frameworks: Django, Flask
 
 
 Areas: Data Analysis, Machine Learning, NLP
-📚 Education
-University of Central Missouri
+
+
+
+
+#### 📚 Education
+##### University of Central Missouri
 Masters in Computer Science (expected 2025)
 
-Centurion University
+##### Centurion University
 Bachelors in Computer Science
 
-💼 Work Experience
+#### 💼 Work Experience
 Senior Software Engineer @ CloudEarl (2021-2023)
 
 Developed cloud optimization app saving 60% in costs . 
 Improved DB performance by 15% through query optimization
 Python Developer Intern @ CloudEarl (2021)
 
-🏆 Accomplishments
+#### 🏆 Accomplishments
 Tableau Visualization Certificate from Coursera
 Python for Data Science Certificate
 
