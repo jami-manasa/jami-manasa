@@ -1,8 +1,10 @@
 ### Hi there 👋 I'm Manasa!
 #### I'm an aspiring computer scientist passionate about using code to solve real-world problems. I have experience building data pipelines, creating cloud cost optimization tools, chatbots leveraging NLP/ML, and interactive data visualizations.
 
-#### 👩‍💻 Technical Skills & Interests
 
+
+
+#### 👩‍💻 **Technical Skills & Interests**
 
 
 Languages: Python, R, Java, JavaScript
