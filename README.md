@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Data Analysis and Visualisation**
 
-- 📄 Knoabout my experiences [here](https://www.linkedin.com/in/jami-manasa/)
+- 📄 Know more about my experiences [here](https://www.linkedin.com/in/jami-manasa/)
 
 - ⚡ Fun fact **I can go hours talking about art and football**
 
