@@ -9,7 +9,7 @@
 <h3 align="center">MI'm an aspiring computer scientist passionate about using code to solve real-world problems. I have 3+ years of experience with chatbots leveraging NLP/ML, interactive data visualization, creating cloud cost optimization tools, and building data pipelines.</h3>
 <img align="right" alt="Coding" width="300" src="https://assets-global.website-files.com/5c19020c997c25514d17d86f/60c0da6805ff4dd716da834f_Visual%20data%20(1).gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeyvishnu&label=Profile%20views&color=0e75b6&style=flat" alt="jami-manasa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jami-manasa&label=Profile%20views&color=0e75b6&style=flat" alt="jami-manasa" /> </p>
 
 - 🔭 I am currently working on my Portfolio and MakeOverMonday Challenges
   
