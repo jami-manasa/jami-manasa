@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Manasa Jami</h1>
-<h3 align="center">I'm an aspiring computer scientist passionate about using code to solve real-world problems. I have 3+ years of experience with chatbots leveraging NLP/ML, interactive data visualization, creating cloud cost optimization tools, and building data pipelines.</h3>
+<h3 align="center"> Data Scientist with a strong background in data engineering, machine learning, and data analysis. Over two years of hands-on experience in building data pipelines, orchestrating workflows, and developing predictive models. Passionate about leveraging data to solve real-world problems through innovative, data-driven solutions. Adept at working in collaborative, global environments with a commitment to continuous learning and professional growth..</h3>
 <img align="right" alt="Coding" width="300" src="https://assets-global.website-files.com/5c19020c997c25514d17d86f/60c0da6805ff4dd716da834f_Visual%20data%20(1).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jami-manasa&label=Profile%20views&color=0e75b6&style=flat" alt="jami-manasa" /> </p>
