@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://github.com/jami-manasa/jami-manasa/blob/main/f2.png" alt="Profile Pic" width="700"/>
+<img src="https://github.com/jami-manasa/jami-manasa/blob/main/f2.png" alt="Profile Pic" width="500"/>
 
 
 </p>
