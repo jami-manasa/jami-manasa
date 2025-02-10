@@ -71,11 +71,12 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jami-manasa&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jami-manasa&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=jami-manasa&theme=radical" alt="GitHub Streak" />
 </p>
 
 ### 🙏 Thank You for Visiting!
 
 <p align="center">
-  <strong>🌟 Keep exploring, keep coding! 🌟</strong>
+  <strong>✨ Thank you for visiting my profile! ✨</strong><br/>
+  🌟 Keep exploring, keep coding! 🌟
 </p>
