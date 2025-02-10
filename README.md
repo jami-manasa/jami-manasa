@@ -49,6 +49,8 @@ Masters in Computer Science (expected 2025)
 Bachelors in Computer Science
 
 #### 💼 Work Experience
+Research Gradtuate Assistant @ University Of Central Missiouri (Presnt)
+
 Senior Software Engineer @ CloudEarl (2021-2023)
 
 Developed cloud optimization app saving 60% in costs. 
