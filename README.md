@@ -1,4 +1,4 @@
-### GitHub README
+
 
 <h1 align="center">Hello 👋, I'm Manasa Jami</h1>
 
@@ -67,16 +67,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jami-manasa&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jami-manasa&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=jami-manasa&theme=radical" alt="GitHub Streak" />
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jami-manasa&show_icons=true&locale=en&layout=compact" alt="jami-manasa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jami-manasa&show_icons=true&locale=en" alt="jami-manasa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jami-manasa&" alt="jami-manasa" /></p>
 </p>
 
-### 🙏 Thank You for Visiting!
+###  Thank you for visiting my profile! 
 
 <p align="center">
-  <strong>✨ Thank you for visiting my profile! ✨</strong><br/>
   🌟 Keep exploring, keep coding! 🌟
 </p>
