@@ -1,4 +1,6 @@
 
+
+
 <p align="center">
 <!-- <img src="https://github.com/jami-manasa/jami-manasa/blob/main/f2.png" alt="Profile Pic" width="500"/> -->
 
@@ -47,9 +49,9 @@ Masters in Computer Science (expected 2025)
 Bachelors in Computer Science
 
 #### 💼 Work Experience
-Research Gradtuate Assistant @University Of Central Missiouri (Presnt)
+Research Gradtuate Assistant @ University Of Central Missiouri (Presnt)
 
-Senior Software Engineer @CloudEarl (2021-2023)
+Senior Software Engineer @ CloudEarl (2021-2023)
 
 Developed cloud optimization app saving 60% in costs. 
 Improved DB performance by 15% through query optimization
