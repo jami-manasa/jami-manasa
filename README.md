@@ -9,7 +9,7 @@
 <h4 align="center">Data Scientist with a strong background in data engineering, machine learning, and data analysis. Over two years of hands-on experience in building data pipelines, orchestrating workflows, and developing predictive models. Passionate about leveraging data to solve real-world problems through innovative, data-driven solutions. Adept at working in collaborative, global environments with a commitment to continuous learning and professional growth.</h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jami-manasa&label=Profile%20views&color=0e75b6&style=flat" alt="jami-manasa" />
+  <img src="https://komarev.com/ghpvc/?username=jami-manasa&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ### 🚀 About Me
@@ -67,9 +67,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jami-manasa&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jami-manasa&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=jami-manasa&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jami-manasa&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jami-manasa&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jami-manasa&theme=radical" alt="GitHub Streak" />
+</p>
+
+### 🙏 Thank You for Visiting!
+
+<p align="center">
+  <strong>🌟 Keep exploring, keep coding! 🌟</strong>
 </p>
