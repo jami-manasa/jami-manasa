@@ -13,9 +13,9 @@
 <!--  <img src="https://github.com/jami-manasa/jami-manasa/blob/main/f2.png" alt="Profile Pic" width="500"/> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jami-manasa&label=Profile%20views&color=0e75b6&style=flat" alt="jami-manasa" /> </p>
 
-- 🔭 I am currently working on my Portfolio and MakeOverMonday Challenges
+- 🔭 I am currently working on upgrading my skills.
   
-- 🌱 I’m currently exploring **Advanced Statistics, Tableau, and Power BI**
+- 🌱 I’m currently exploring **Advanced Data Engineering, Machine learning Algos, YOLO, Statistics, Tableau, and Power BI**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/jami-manasa)
 
@@ -25,7 +25,7 @@
 
 - 📄 Know more about my experiences [here](https://www.linkedin.com/in/jami-manasa/)
 
-- ⚡ Fun fact **I can go hours talking about art and football**
+- ⚡ Fun fact **I can go hours talking about Cooking, Gardening and Nature**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
