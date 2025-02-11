@@ -67,7 +67,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jami-manasa&show_icons=true&locale=en&layout=compact&size_weight=0.1&count_weight=0.1" alt="jami-manasa" /></p>
+ <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jami-manasa&show_icons=true&locale=en&layout=compact&size_weight=0.1&count_weight=0.1" alt="jami-manasa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jami-manasa&show_icons=true&locale=en" alt="jami-manasa" /></p>
 
