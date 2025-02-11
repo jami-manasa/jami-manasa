@@ -71,8 +71,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jami-manasa&show_icons=true&locale=en" alt="jami-manasa" /></p>
 
-<p>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=jami-manasa&theme=ocean-dark&card_width=300&card_height=190)](https://git.io/streak-stats" /></p>
 
+<p>&nbsp;<<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jami-manasa&card_width=300&card_height=190" alt="GitHub Streak" /></a></p>
 </p>
 
 ###  Thank you for visiting my profile! 
