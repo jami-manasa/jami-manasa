@@ -69,7 +69,7 @@
 <p align="center">
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jami-manasa&show_icons=true&locale=en&layout=compact" alt="jami-manasa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jami-manasa&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5" alt="jami-manasa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jami-manasa&show_icons=true&locale=en&size_weight=0.1&count_weight=0.1" alt="jami-manasa" /></p>
 
 
 <p>&nbsp;<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jami-manasa&card_width=300&card_height=190" alt="GitHub Streak" /></a></p>
