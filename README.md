@@ -71,7 +71,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jami-manasa&show_icons=true&locale=en" alt="jami-manasa" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=jami-manasa&theme=blueberry&card_width=300&card_height=180" alt="GitHub Streak" /></p>
+<p>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=jami-manasa&theme=blueberry&card_width=300&card_height=180" alt="GitHub Streak" /></p>
 
 </p>
 
