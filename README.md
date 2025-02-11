@@ -64,16 +64,16 @@
 - [Tableau Visualization Certificate from Coursera](https://www.coursera.org/account/accomplishments/verify/6VM6E62HUK4T?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Python for Data Science Certificate](https://www.credly.com/badges/f073772b-a184-440e-8a5e-edeb50012761)
 
-###GitHub Stats
+### GitHub Stats
 
-
+<p align="center">
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jami-manasa&show_icons=true&locale=en&layout=compact&size_weight=0.1&count_weight=0.1" alt="jami-manasa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jami-manasa&show_icons=true&locale=en" alt="jami-manasa" /></p>
 
 
 <p>&nbsp;<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jami-manasa&card_width=300&card_height=190" alt="GitHub Streak" /></a></p>
-
+</p>
 
 ###  Thank you for visiting my profile! 
 
