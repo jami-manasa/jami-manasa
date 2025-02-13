@@ -46,12 +46,12 @@
   <img src="https://its.ucr.edu/sites/default/files/styles/form_preview/public/powerbi%20logo%201.png?itok=yYXO-S-V" alt="Power BI" width="40" height="40" />
 </p>
 
-### 🎓 Education
+###  Education
 
 - **Masters in Computer Science** - University of Central Missouri *(Expected 2025)*
 - **Bachelors in Computer Science** - Centurion University
 
-### 💼 Work Experience
+###  Work Experience
 
 - **Research Graduate Assistant** @ University of Central Missouri *(Present)*
 - **Senior Software Engineer** @ CloudEarl *(2021-2023)*
@@ -59,7 +59,7 @@
   - Improved DB performance by 15% through query optimization.
 - **Python Developer Intern** @ CloudEarl *(2021)*
 
-### 🏆 Accomplishments
+###  Accomplishments
 
 - [Tableau Visualization Certificate from Coursera](https://www.coursera.org/account/accomplishments/verify/6VM6E62HUK4T?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Python for Data Science Certificate](https://www.credly.com/badges/f073772b-a184-440e-8a5e-edeb50012761)
@@ -78,5 +78,5 @@
 ###  Thank you for visiting my profile! 
 
 <p align="center">
-  🌟 Keep exploring, keep coding! 🌟
+ 🌟 Keep exploring, keep coding! 🌟
 </p>
