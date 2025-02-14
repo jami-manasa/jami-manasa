@@ -75,7 +75,7 @@
 <p>&nbsp;<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jami-manasa&card_width=300&card_height=190" alt="GitHub Streak" /></a></p>
 </p>
 
-###  Thank you for visiting my profile! 
+###  Thank you for visiting my profile :) ! 
 
 <p align="center">
  🌟 Keep exploring, keep coding! 🌟
