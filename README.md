@@ -48,7 +48,7 @@
 
 ###  Education
 
-- **Masters in Computer Science** - University of Central Missouri *(Expected 2025)*
+- **Masters in Computer Science** - University of Central Missouri *(May 2025)*
 - **Bachelors in Computer Science** - Centurion University
 
 ###  Work Experience
