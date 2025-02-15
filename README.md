@@ -54,9 +54,11 @@
 ###  Work Experience
 
 - **Research Graduate Assistant** @ University of Central Missouri *(Present)*
+- 
 - **Senior Software Engineer** @ CloudEarl *(2021-2023)*
   - Developed a cloud optimization app, saving 60% in costs.
   - Improved DB performance by 15% through query optimization.
+  - 
 - **Python Developer Intern** @ CloudEarl *(2021)*
 
 ###  Accomplishments
