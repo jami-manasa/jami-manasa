@@ -59,7 +59,7 @@
   - Developed a cloud optimization app, saving 60% in costs.
   - Improved DB performance by 15% through query optimization.
   - 
-- **Python Developer Intern** @ CloudEarl *(2021)*
+- **Software Developer Intern** @ CloudEarl *(2021)*
 
 ###  Accomplishments
 
