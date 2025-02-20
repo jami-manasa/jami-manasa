@@ -19,7 +19,7 @@
 -  Ask me about **Data Analysis and Visualization**.
 -  Know more about my experiences [here](https://www.linkedin.com/in/jami-manasa/).
 -  Fun fact: **I can go hours talking about Cooking, Gardening, and Nature**.
-
+-  
 ###  Connect with Me
 
 <p align="center">
