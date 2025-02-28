@@ -1,7 +1,7 @@
 <h1 align="center">Hello , I'm Manasa Jami</h1>
 <p align="center">  
   <img src="https://github.com/jami-manasa/jami-manasa/blob/main/f2.png" alt="Profile Pic" width="300"/>   
-</p>                                      
+</p>                                       
 <h4 align="center"> Data Scientist with a strong background in data engineering, machine learning,  and data analysis. Over two years of hands-on experience in building data pipelines, orchestrating workflows, and developing predictive models. Passionate about leveraging data to solve real-world problems through innovative, data-driven solutions. Adept at working in collaborative, global environments with a commitment to continuous learning and professional growth.</h4>
  
 <p align="center">
