@@ -62,7 +62,7 @@
 - [Python for Data Science Certificate](https://www.credly.com/badges/f073772b-a184-440e-8a5e-edeb50012761)
 
 ### GitHub Stats
-
+ 
 <p align="center">
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jami-manasa&show_icons=true&locale=en&layout=compact&size_weight=0.1&count_weight=0.1" alt="jami-manasa" /></p>
 
