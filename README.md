@@ -7,7 +7,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jami-manasa&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
-### About Me
+
+###    About Me
+
 
 -  I am currently working on upgrading my skills.
 -  I’m currently exploring **Advanced Data Engineering, Machine Learning Algos, YOLO, Statistics, Tableau, and Power BI**.
