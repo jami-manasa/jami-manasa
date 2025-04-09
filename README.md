@@ -11,7 +11,6 @@
 
 ###    About Me
 
-
 -  I am currently working on upgrading my skills.
 -  I’m currently exploring **Advanced Data Engineering, Machine Learning Algos, YOLO, Statistics, Tableau, and Power BI**.
 -  All of my projects are available [here](https://github.com/jami-manasa).
