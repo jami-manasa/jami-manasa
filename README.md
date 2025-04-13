@@ -49,7 +49,7 @@
 - **Bachelors in Computer Science** - Centurion University
 
 ###  Work Experience
-
+ 
 - **Research Graduate Assistant** @ University of Central Missouri *(Present)*
 - 
 - **Senior Software Engineer** @ CloudEarl *(2021-2023)*
