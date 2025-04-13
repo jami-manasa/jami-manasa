@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Manasa Jami</h1>
+<h1 align="center"> Hi there, I'm Manasa Jami</h1>
 
 <p align="center">
   <img src="https://github.com/jami-manasa/jami-manasa/blob/main/f2.png" alt="Manasa Jami" width="280"/>
@@ -17,47 +17,47 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 Hi! I’m Manasa — someone who believes in the power of data to solve real-world problems. With a background in software engineering and cloud, I love building smart data workflows, insightful dashboards, and machine learning models that make a difference.
 
-- 🔭 Exploring **YOLO**, **Machine Learning**, **Tableau**, and **Power BI**
-- 💡 Building real-world data & AI solutions
-- 📈 Always learning and sharing — check out my [GitHub](https://github.com/jami-manasa)
-- 🎨 Passionate about cooking, nature, and minimalist design 🌿
+- Exploring **YOLO**, **Machine Learning**, **Tableau**, and **Power BI**
+- Building real-world data & AI solutions
+- Always learning and sharing — check out my [GitHub](https://github.com/jami-manasa)
+- Passionate about cooking, nature, and minimalist design 
 
 ---
 
-### 💼 Experience Snapshot
+### Experience Snapshot
 
-#### 🔬 Research Graduate Assistant — *University of Central Missouri*
+#### Research Graduate Assistant — *University of Central Missouri*
 - Assisting in AI/ML-based research environments.
 
-#### ☁️ Senior Software Engineer — *CloudEarl (2021–2023)*
+#### Senior Software Engineer — *CloudEarl (2021–2023)*
 - Developed cloud optimization tool (saved 60% costs)
 - Improved DB performance by 15%
 - Built automation scripts and Slack bots
 
-#### 👩‍💻 Developer Intern — *CloudEarl*
+#### Developer Intern — *CloudEarl*
 - Built REST APIs and backend modules
 
 ---
 
-### 🎓 Education
+### Education
 
 - **M.S. in Computer Science**, University of Central Missouri *(May 2025)*
 - **B.Tech in Computer Science**, Centurion University
 
 ---
 
-### 📜 Certifications
+### Certifications
 
 - [Tableau Data Visualization – Coursera](https://www.coursera.org/account/accomplishments/verify/6VM6E62HUK4T)
 - [Python for Data Science – IBM (Credly)](https://www.credly.com/badges/f073772b-a184-440e-8a5e-edeb50012761)
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -69,7 +69,7 @@ Hi! I’m Manasa — someone who believes in the power of data to solve real-wor
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jami-manasa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
@@ -81,7 +81,7 @@ Hi! I’m Manasa — someone who believes in the power of data to solve real-wor
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/jami-manasa">
@@ -98,6 +98,6 @@ Hi! I’m Manasa — someone who believes in the power of data to solve real-wor
 ---
 
 <p align="center">
-  <em>Thanks for visiting ✨<br/>
+  <em>Thanks for visiting <br/>
   “Stay curious. Stay inspired. And always follow the data.”</em>
 </p>
