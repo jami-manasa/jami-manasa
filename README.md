@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/jami-manasa/jami-manasa/blob/main/f2.png" alt="Manasa Jami" width="280"/>
 </p>
-
+ 
 <p align="center">
   <strong>Data Scientist | Machine Learning Enthusiast | Cloud Engineer</strong><br/>
   Turning data into decisions through smart pipelines, models, and dashboards.
