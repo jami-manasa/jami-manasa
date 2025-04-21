@@ -5,7 +5,7 @@
 </p>
   
 <p align="center">
-  <strong>Data Scientist | Machine Learning Enthusiast | Cloud Engineer</strong><br/>
+  <strong>Data Scientist | Machine Learning Enthusiast | Cloud Engineer</strong><br/> 
   Turning data into decisions through smart pipelines, models, and dashboards.
 </p>
 
