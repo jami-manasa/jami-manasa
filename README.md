@@ -6,7 +6,7 @@
   
 <p align="center">
   <strong>Data Scientist | Machine Learning Enthusiast | Cloud Engineer</strong><br/> 
-  Turning data into decisions through smart pipelines, models, and dashboards.
+  Turning data into decisions through smart pipelines, models, and dashboards. 
 </p>
 
 <p align="center">
