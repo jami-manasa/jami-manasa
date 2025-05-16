@@ -72,7 +72,7 @@ With 3 years of hands-on experience in software engineering, cloud infrastructur
 
 ## 🎓 Education
 
-- **M.S. in Computer Science**, University of Central Missouri *(Expected May 2025)*  
+- **M.S. in Computer Science**, University of Central Missouri *( May 2025)*  
 - **B.Tech in Computer Science**, Centurion University
 
 ---
@@ -85,7 +85,7 @@ With 3 years of hands-on experience in software engineering, cloud infrastructur
 
 ---
 
-## 💡 Skills
+## 💡 Teachnical Skills
 
 ### 💻 Languages  
 **Python (Advanced), SQL, PySpark, Java, R, Go, JavaScript, HTML**
