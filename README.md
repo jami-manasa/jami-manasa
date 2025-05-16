@@ -1,137 +1,138 @@
-<h1 align="center">👋 Hello, I'm Manasa Jami</h1>
+<h1 align="center">Manasa Jami</h1>
 
 <p align="center">
-  <img src="https://github.com/jami-manasa/jami-manasa/blob/main/f2.png" alt="Manasa Jami" width="250"/>
+  <img src="https://github.com/jami-manasa/jami-manasa/blob/main/f2.png" alt="Manasa Jami" width="240"/>
 </p>
 
 <p align="center">
-  <strong>Data Engineer | AI/ML Developer | Cloud Enthusiast</strong><br/>
-  <em>Bridging raw data to real impact through scalable systems, AI models, and cloud automation.</em>
+  Data Engineer | AI/ML Developer | Cloud Enthusiast  
+  <br/>
+  Turning data into scalable products, smart systems, and meaningful insights.
 </p>
 
 <p align="center">
   <a href="https://github.com/jami-manasa">
-    <img src="https://komarev.com/ghpvc/?username=jami-manasa&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=jami-manasa&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   </a>
 </p>
 
 ---
 
-## 🔍 Summary
+## Summary
 
-With 3 years of hands-on experience in software engineering, cloud infrastructure, and AI/ML, I specialize in:
-
-- Building scalable data pipelines & backend systems (Python, MongoDB, AWS)
-- Developing intelligent ML models and deploying NLP/chatbot solutions
-- Designing dashboards and automating insights with tools like Tableau & Power BI
-- Crafting end-to-end solutions from data ingestion to actionable results
-
-I’m passionate about solving real-world problems using technology and constantly pushing the boundary between data and decisions.
+I’m a data-driven engineer with 3+ years of experience across software development, cloud automation, and applied machine learning. I specialize in building full-stack data solutions—from ingestion to visualization—leveraging modern technologies like Python, AWS, Airflow, and deep learning frameworks. My work is rooted in solving real-world problems with efficiency, scalability, and impact.
 
 ---
 
-## 💼 Selected Projects
+## Projects
 
-### 🚀 **MuleConnect** – *Full-Stack Alumni Network Platform*
-**Django, MongoDB Atlas, AWS EC2, HTML/CSS/JS**  
-- Built a role-based web platform for mentorship, jobs, and events.
-- Implemented dynamic Community Wall with image posts, search, and pagination.
-- Integrated chatbot, and deployed with MongoDB Atlas on AWS.
+### MuleConnect – Alumni & Student Community Platform  
+**Django, MongoDB Atlas, AWS EC2, HTML/CSS/JavaScript**  
+- Developed a full-stack web application to connect students and alumni for mentorship, job sharing, and event collaboration.  
+- Implemented real-time community wall with search, image uploads, and role-based dashboards.  
+- Deployed on AWS with MongoDB Atlas for scalable data handling.
 
-### 🧠 **YOLO-based Smart Ad Screening** – *Computer Vision Research*
+### YOLO-based Ad Screening System  
 **YOLOv8, OpenCV, Python**  
-- Designed and trained a YOLO model to detect & analyze ad placements in urban areas.
-- Aimed at improving digital marketing effectiveness using real-time camera feeds.
+- Built a custom YOLO model to detect and analyze advertising screen usage across urban intersections.  
+- Used real-time camera feeds for automating ad impression analysis and optimization.
 
-### 💰 **AWS Cost Optimization Scheduler**
-**Python, Boto3 SDK**  
-- Built an intelligent cost-saver tool that reduced AWS cloud expenses by up to 60%.
-- Scheduled automated start/stop of services based on usage patterns.
+### AWS Cost Optimization Scheduler  
+**Python, Boto3, AWS Lambda, EC2, CloudWatch**  
+- Engineered a scheduler to cut AWS costs by up to 60% through automated resource lifecycle management.  
+- Integrated with billing analysis and resource tagging to prioritize savings opportunities.
 
-### 🌐 **Multilingual Chatbot for Education**
-**Flask, NLP, TextBlob, Google Translate API**  
-- Developed a chatbot to support multi-language academic queries with sentiment detection.
-- Deployed on Flask server to assist student support systems.
+### Multilingual Chatbot for Education  
+**Flask, NLP, TextBlob, Translation APIs**  
+- Created a chatbot capable of handling multilingual queries with sentiment analysis and context detection.  
+- Deployed on Flask server to improve institutional student engagement and self-service capabilities.
 
 ---
 
-## 🏢 Experience
+## Experience
 
-**🎓 Research Graduate Assistant**  
-*University of Central Missouri (2024–Present)*  
-- Working on AI/ML-based traffic analytics and computer vision research.
+**Research Graduate Assistant**  
+*University of Central Missouri*  
+- Supporting AI/ML research in computer vision, traffic analytics, and deep learning.
 
-**💻 Senior Software Engineer**  
-*CloudEarl Solutions (2021–2023)*  
-- Designed automation tools, reduced cloud costs by 60%, and improved DB performance.
-- Built Slack bots, REST APIs, and CI/CD pipelines using Python & GitLab.
-
-**👨‍💻 Developer Intern**  
+**Senior Software Engineer**  
 *CloudEarl Solutions*  
-- Supported backend development and RESTful API design.
+- Developed cloud automation tools and RESTful APIs; reduced cloud spend by 60%.  
+- Implemented CI/CD pipelines with GitLab and built Slack bots for internal DevOps support.
+
+**Developer Intern**  
+*CloudEarl Solutions*  
+- Assisted in backend development, containerized deployments, and API integrations.
 
 ---
 
-## 🎓 Education
+## Education
 
 - **M.S. in Computer Science**, University of Central Missouri *(Expected May 2025)*  
-- **B.Tech in Computer Science**, Centurion University, India
+- **B.Tech in Computer Science**, Centurion University
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- ✅ [Tableau Data Visualization – Coursera](https://www.coursera.org/account/accomplishments/verify/6VM6E62HUK4T)  
-- ✅ [Python for Data Science – IBM (Credly)](https://www.credly.com/badges/f073772b-a184-440e-8a5e-edeb50012761)  
-- 🧪 *AWS Certified Data Engineer – Associate* (In Progress)
+- [Tableau Data Visualization – Coursera](https://www.coursera.org/account/accomplishments/verify/6VM6E62HUK4T)  
+- [Python for Data Science – IBM (Credly)](https://www.credly.com/badges/f073772b-a184-440e-8a5e-edeb50012761)  
+- AWS Data Engineer – Associate *(In Progress)*
 
 ---
 
-## ⚙️ Core Skills & Tools
+## Technical Skills
+
+**Languages**  
+Python (Advanced), SQL, PySpark, Java, R, Go, JavaScript, HTML/CSS
+
+**Cloud & DevOps**  
+AWS (S3, Lambda, EC2, Boto3), GCP, Jenkins, Git, Docker, Kubernetes
+
+**Data Engineering**  
+ETL Pipelines, Data Modeling, Apache Airflow, Spark, Hadoop, Kafka
+
+**Databases**  
+MySQL, PostgreSQL, MongoDB, Cassandra
+
+**Analytics & Visualization**  
+Tableau, Power BI, Plotly Dash
+
+**Machine Learning & AI**  
+Scikit-learn, TensorFlow, NLP, Deep Learning, YOLO, Computer Vision
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jami-manasa&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jami-manasa&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jami-manasa&theme=default&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jami-manasa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jami-manasa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jami-manasa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🤝 Let's Connect
+## Contact
 
 <p align="center">
   <a href="https://linkedin.com/in/jami-manasa">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/jami-manasa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"/>
   </a>
   <a href="https://public.tableau.com/app/profile/j.manasa">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tableau-orange?style=flat&logo=tableau&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>“Build boldly. Learn relentlessly. Deliver impact.”</em><br/>
-  <small>— Manasa Jami</small>
+  Thank you for visiting.  
+  <br/>
+  Let’s build data-driven solutions that create real impact.
 </p>
