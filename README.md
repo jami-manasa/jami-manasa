@@ -21,88 +21,117 @@
 
 With 3 years of hands-on experience in software engineering, cloud infrastructure, and AI/ML, I specialize in:
 
-- Building scalable data pipelines & backend systems (Python, MongoDB, AWS)  
-- Developing intelligent ML models and deploying NLP/chatbot solutions  
-- Designing dashboards and automating insights with tools like Tableau & Power BI  
-- Crafting end-to-end solutions from data ingestion to actionable results  
+* Building scalable data pipelines & backend systems (Python, MongoDB, AWS)
+* Developing intelligent ML models and deploying NLP/chatbot solutions
+* Designing dashboards and automating insights with tools like Tableau & Power BI
+* Crafting end-to-end solutions from data ingestion to actionable results
 
 ---
 
 ## 🚀 Projects
 
 ### 💡 MuleConnect – *Full-Stack Alumni Network Platform*
-**Django, MongoDB Atlas, AWS EC2**  
-- Role-based platform for mentorship, jobs, and events  
-- Real-time Community Wall with image posts, search, pagination  
-- Integrated chatbot, job/event modules. Deployed on AWS
+
+**Django, MongoDB Atlas, AWS EC2**
+
+* Role-based platform for mentorship, jobs, and events
+* Real-time Community Wall with image posts, search, pagination
+* Integrated chatbot, job/event modules. Deployed on AWS
 
 ### 🎯 YOLO-based Smart Ad Screening – *Computer Vision Research*
-**YOLOv8, OpenCV, Python**  
-- Designed & trained a YOLO model to screen ads from urban camera feeds  
-- Focused on enhancing effectiveness in digital OOH advertising  
+
+**YOLOv8, OpenCV, Python**
+
+* Designed & trained a YOLO model to screen ads from urban camera feeds
+* Focused on enhancing effectiveness in digital OOH advertising
 
 ### ⚙️ AWS Cost Optimization Scheduler
-**Python, Boto3 SDK**  
-- Built a tool that auto-managed AWS usage, saving ~60% on cloud costs  
-- Scheduled EC2, RDS resource shutdown/startup intelligently  
+
+**Python, Boto3 SDK**
+
+* Built a tool that auto-managed AWS usage, saving \~60% on cloud costs
+* Scheduled EC2, RDS resource shutdown/startup intelligently
 
 ### 🌍 Multilingual Chatbot for Education
-**Flask, NLP, TextBlob**  
-- Chatbot with sentiment detection, language translation, and multilingual query handling  
-- Targeted toward streamlining student academic inquiries  
+
+**Flask, NLP, TextBlob**
+
+* Chatbot with sentiment detection, language translation, and multilingual query handling
+* Targeted toward streamlining student academic inquiries
 
 ---
 
 ## 🏢 Experience
 
-**Research Graduate Assistant**  
-*University of Central Missouri* (2024–Present)  
-- Research on YOLO, computer vision, and smart screening systems
+**University Of Central Missouri**, Warrensburg
+*Graduate Research Assistant*
+*May 2025*
+• Built real-time traffic analytics pipelines using Apache Spark and Hadoop to optimize digital advertising screen placement.
+• Applied YOLO object detection to analyze pedestrian traffic, dwell time, and gaze patterns.
+• Developed interactive dashboards using Plotly Dash to visualize audience engagement trends.
+• Optimized data storage and model performance for faster and scalable computations.
 
-**Senior Software Engineer**  
-*CloudEarl Solutions* (2021–2023)  
-- Built cloud optimization tool (saved 60% AWS cost)  
-- Improved DB performance, created automation scripts, Slack bots, and CI/CD pipelines
+**CloudEarl Solutions Pvt. Ltd**, Visakhapatnam
+*Senior Software Engineer / Data Engineer*
+*Mar 2021 – May 2023*
+• Managed the automation of ETL pipelines using Apache Airflow, improving workflow efficiency and traceability.
+• Designed and implemented distributed data processing frameworks with Apache Spark and Hadoop, enabling near real-time data analytics.
+• Developed event-driven data pipelines with Apache Kafka, ensuring seamless data ingestion and processing from multiple sources.
+• Built CI/CD pipelines using Jenkins, reducing deployment time by 40% and enhancing the reliability of data workflows.
+• Designed intuitive dashboards in Power BI and Tableau, providing stakeholders with real-time operational insights.
+• Collaborated with cloud architects to reduce infrastructure costs by 60% through resource optimization and strategic scaling.
+• Developed ETL workflows for managing multi-cloud environments using Apache Airflow and AWS SDK (Boto3).
+• Designed database schemas and implemented data transformation pipelines to ensure seamless integration across cloud platforms.
+• Collaborated on a real-time monitoring system powered by Kafka, enabling efficient anomaly detection in cloud infrastructure.
+• Assisted in containerizing applications with Docker for deployment in Kubernetes clusters.
 
-**Developer Intern**  
-*CloudEarl Solutions*  
-- Supported API development and backend data services
+**Visualthree60**, Bangalore, India
+*AIML Intern*
+*Feb 2021 – Mar 2021*
+• Built an NLP-based chatbot using Flask and Python, integrating Machine Learning models to enhance user experience.
+• Deployed the chatbot on Digital Ocean, leveraging scalable cloud infrastructure for uninterrupted service.
 
 ---
 
 ## 🎓 Education
 
-- **M.S. in Computer Science**, University of Central Missouri *(May 2025)*  
-- **B.Tech in Computer Science**, Centurion University
+* **M.S. in Computer Science**, University of Central Missouri *(May 2025)*
+* **B.Tech in Computer Science**, Centurion University
 
 ---
 
 ## 📜 Certifications
 
-- [Tableau Data Visualization – Coursera](https://www.coursera.org/account/accomplishments/verify/6VM6E62HUK4T)  
-- [Python for Data Science – IBM (Credly)](https://www.credly.com/badges/f073772b-a184-440e-8a5e-edeb50012761)  
-- *AWS Certified Data Engineer – Associate* (In Progress)
+* [Tableau Data Visualization – Coursera](https://www.coursera.org/account/accomplishments/verify/6VM6E62HUK4T)
+* [Python for Data Science – IBM (Credly)](https://www.credly.com/badges/f073772b-a184-440e-8a5e-edeb50012761)
+* *AWS Certified Data Engineer – Associate* (In Progress)
 
 ---
 
 ## 🛠 Technical Skills
 
-### 🧑‍💻 Programming Languages  
+### 🧑‍💻 Programming Languages
+
 **Python (Advanced), SQL, PySpark, Java, R, Go, JavaScript, HTML**
 
-### ☁️ Cloud & Tools  
+### ☁️ Cloud & Tools
+
 **AWS (S3, Lambda, EC2, Boto3), GCP, Jenkins, Git, Docker, Kubernetes**
 
-### 🧱 Data Engineering  
+### 🧱 Data Engineering
+
 **ETL Pipelines, Data Modeling, Airflow, Spark, Hadoop, Kafka**
 
-### 🗃 Databases  
+### 🗃 Databases
+
 **MySQL, PostgreSQL, MongoDB, Cassandra**
 
-### 📊 Analytics & Visualization  
+### 📊 Analytics & Visualization
+
 **Tableau, Power BI, Plotly Dash**
 
-### 🤖 Machine Learning & AI  
+### 🤖 Machine Learning & AI
+
 **Scikit-learn, TensorFlow, NLP, Deep Learning, YOLO, Computer Vision**
 
 ---
