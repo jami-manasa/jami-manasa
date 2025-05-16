@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Manasa Jami</h1>
+<h1 align="center"> Hello, I'm Manasa Jami</h1>
 
 <p align="center">
   <img src="https://github.com/jami-manasa/jami-manasa/blob/main/f2.png" alt="Manasa Jami" width="250"/>
@@ -17,7 +17,7 @@
 
 ---
 
-## 🔍 Summary
+##  Summary
 
 With 3 years of hands-on experience in software engineering, cloud infrastructure, and AI/ML, I specialize in:
 
@@ -28,25 +28,25 @@ With 3 years of hands-on experience in software engineering, cloud infrastructur
 
 ---
 
-## 💼 Projects
+##  Projects
 
-### 🚀 **MuleConnect** – *Full-Stack Alumni Network Platform*
+###  **MuleConnect** – *Full-Stack Alumni Network Platform*
 **Django, MongoDB Atlas, AWS EC2**  
 - Role-based platform for mentorship, jobs, and events.  
 - Real-time Community Wall with image posts, search, pagination.  
 - Integrated chatbot, job/event modules. Deployed on AWS.
 
-### 🧠 **YOLO-based Smart Ad Screening** – *Computer Vision Research*
+###  **YOLO-based Smart Ad Screening** – *Computer Vision Research*
 **YOLOv8, OpenCV, Python**  
 - Designed & trained a YOLO model to screen ads from urban camera feeds.  
 - Focused on enhancing effectiveness in digital OOH advertising.
 
-### 💰 **AWS Cost Optimization Scheduler**
+###  **AWS Cost Optimization Scheduler**
 **Python, Boto3 SDK**  
 - Built a tool that auto-managed AWS usage, saving ~60% on cloud costs.  
 - Scheduled EC2, RDS resource shutdown/startup intelligently.
 
-### 🌐 **Multilingual Chatbot for Education**
+###  **Multilingual Chatbot for Education**
 **Flask, NLP, TextBlob**  
 - Chatbot with sentiment detection, language translation, and multilingual query handling.  
 - Targeted toward streamlining student academic inquiries.
@@ -55,16 +55,16 @@ With 3 years of hands-on experience in software engineering, cloud infrastructur
 
 ## 🏢 Experience
 
-**🎓 Research Graduate Assistant**  
+** Research Graduate Assistant**  
 *University of Central Missouri* (2024–Present)  
 - Research on YOLO, computer vision, and smart screening systems.
 
-**💻 Senior Software Engineer**  
+** Senior Software Engineer**  
 *CloudEarl Solutions* (2021–2023)  
 - Built cloud optimization tool (saved 60% AWS cost).  
 - Improved DB performance, created automation scripts, Slack bots, and CI/CD pipelines.
 
-**👩‍💻 Developer Intern**  
+** Developer Intern**  
 *CloudEarl Solutions*  
 - Supported API development and backend data services.
 
