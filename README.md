@@ -134,6 +134,6 @@ With 3 years of hands-on experience in software engineering, cloud infrastructur
 ---
 
 <p align="center">
-  <em>“Build boldly. Learn relentlessly. Deliver impact.”</em><br/>
+  <em>"I learn with focus, build with purpose, and grow through real work."</em><br/>
   <small>— Manasa Jami</small>
 </p>
