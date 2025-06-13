@@ -12,6 +12,7 @@
 <p align="center">
   <a href="https://github.com/jami-manasa">
     <img src="https://komarev.com/ghpvc/?username=jami-manasa&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+    
   </a>
 </p>
 
