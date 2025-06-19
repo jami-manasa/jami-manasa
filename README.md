@@ -18,7 +18,7 @@
 
 ---
 
-## 🧩 Summary
+##  Summary
 
 With 3 years of hands-on experience in software engineering, cloud infrastructure, and AI/ML, I specialize in:
 
