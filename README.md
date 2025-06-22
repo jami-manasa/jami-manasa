@@ -9,7 +9,7 @@
   <em>Bridging raw data to real impact through scalable systems, AI models, and cloud automation.</em>
 </p>
 
-<p align="center">
+ <p align="center">
   <a href="https://github.com/jami-manasa">
     <img src="https://komarev.com/ghpvc/?username=jami-manasa&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
     
