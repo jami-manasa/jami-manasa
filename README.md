@@ -48,19 +48,19 @@ Data Engineer with **3.5+ years of experience** in designing **cloud-native ETL/
 ## 🚀 Projects
 
 ### 💡 GenAI-Enhanced MuleConnect – *Intelligent Community Platform*
-**Django, MongoDB Atlas, AWS EC2/S3, LLM APIs**  
+**Django, MongoDB Atlas, AWS EC2/S3, LLM APIs**
 * Real-time community platform with role-based dashboards for jobs, mentorship, and events  
 * Integrated multilingual **GenAI chatbot** for dynamic alumni-student communication  
 * Deployed on AWS with **99.9% uptime and secure access workflows**
 
 ### 🎯 Smart Traffic & Audience Analytics – *Computer Vision & Streaming*
-**Apache Spark Streaming, YOLOv8, Python, Chart.js**  
+**Apache Spark Streaming, YOLOv8, Python, Chart.js**
 * Processed **200+ hours of traffic camera data** in real-time using Spark Streaming  
-* Used YOLOv8 for pedestrian flow, dwell time, and behavior analytics  
+* Used YOLOv8 for pedestrian flow, dwell time, and behavior metrics  
 * Built KPI dashboards enabling **data-driven advertising placement decisions**
 
 ### ⚙️ AWS Cloud Cost Optimization ETL System
-**Python, Boto3, CloudWatch, RDS, EC2**  
+**Python, Boto3, CloudWatch, RDS, EC2**
 * Automated resource lifecycle scheduling and forecasting  
 * Achieved **~60% cloud compute cost reduction** across production environments  
 * Designed monitoring dashboards to track usage efficiency trends
@@ -81,7 +81,7 @@ Data Engineer with **3.5+ years of experience** in designing **cloud-native ETL/
 • Built **Spark Streaming** pipelines for computer vision workloads using YOLOv8  
 • Reduced model inference latency by **40%** with optimized serving architecture  
 • Designed Snowflake-ready ETL workflows and high-performance MongoDB data models  
-• Created data-driven insight dashboards using Chart.js for strategic decision-making  
+• Created data-driven insights dashboards using Chart.js for strategic decision-making  
 
 **CloudEarl Solutions Pvt. Ltd**, Visakhapatnam  
 *Senior Software Engineer / Data Engineer* — *Mar 2021 – May 2023*  
@@ -93,7 +93,7 @@ Data Engineer with **3.5+ years of experience** in designing **cloud-native ETL/
 **Visualthree60**, Bangalore  
 *AIML Intern* — *Feb 2021 – Mar 2021*  
 • Developed multilingual chatbot using **Hugging Face Transformers + Flask**  
-• Implemented translation, sentiment, and fallback response pipelines  
+• Deployed scalable cloud-based conversational interface with language translation capability  
 
 ---
 
