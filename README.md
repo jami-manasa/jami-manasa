@@ -19,51 +19,29 @@
 
 ## 🧠 Summary
 
-Data Engineer with **3.5+ years of experience** in designing **cloud-native ETL/ELT pipelines**, large-scale **data processing**, and **AI/ML-driven analytics workflows**. Skilled in **Python, PySpark, SQL, Airflow, Snowflake, Kafka, AWS & Big Data ecosystems**, with a strong focus on scalability, performance, and cost efficiency. Passionate about building end-to-end data systems — from ingestion to model deployment and visualization.
-
----
-
-## 🎭 Little Interactive Fun
-
-<details>
-<summary><strong>🔹 Click to Reveal My Full Name</strong></summary>
-<br>
-<h3 align="center">✨ MANASA JAMI ✨</h3>
-</details>
-
-<details>
-<summary><strong>📧 Click to Reveal My Email</strong></summary>
-<br>
-<p align="center"><strong>manasajami2@gmail.com</strong></p>
-</details>
-
-<details>
-<summary><strong>📱 Click to Reveal My Contact Number</strong></summary>
-<br>
-<p align="center"><strong>+1 (469) 456-5516</strong></p>
-</details>
+Data Engineer with **3.5+ years of experience** building **cloud-native ETL pipelines**, **big data processing workflows**, and **ML-based analytics solutions**. Skilled in **Python, PySpark, SQL, Airflow, Snowflake, Kafka, AWS, and distributed systems**. Focused on performance, cost optimization, data quality, and scalable deployment. I love bridging raw data to meaningful intelligence.
 
 ---
 
 ## 🚀 Projects
 
-### 💡 GenAI-Enhanced MuleConnect – *Intelligent Community Platform*
-**Django, MongoDB Atlas, AWS EC2/S3, LLM APIs**
-* Real-time community platform with role-based dashboards for jobs, mentorship, and events  
-* Integrated multilingual **GenAI chatbot** for dynamic alumni-student communication  
-* Deployed on AWS with **99.9% uptime and secure access workflows**
+### 💡 GenAI-Enhanced MuleConnect – *Intelligent Community Engagement Platform*
+**Django, MongoDB Atlas, AWS EC2/S3, LLM APIs**  
+* Real-time community platform for alumni & student networking  
+* Integrated multilingual GenAI chatbot for dynamic communication  
+* Deployed on AWS with robust authentication and 99.9% uptime
 
-### 🎯 Smart Traffic & Audience Analytics – *Computer Vision & Streaming*
-**Apache Spark Streaming, YOLOv8, Python, Chart.js**
-* Processed **200+ hours of traffic camera data** in real-time using Spark Streaming  
-* Used YOLOv8 for pedestrian flow, dwell time, and behavior metrics  
-* Built KPI dashboards enabling **data-driven advertising placement decisions**
+### 🎯 Smart Traffic & Audience Analytics – *Computer Vision + Streaming Data*
+**Apache Spark Streaming, YOLOv8, Python, Chart.js**  
+* Processed **200+ hours** of real-time camera feeds using Spark  
+* YOLOv8 used for pedestrian flow & dwell-time analysis  
+* Built KPI dashboards for **data-driven outdoor advertising insights**
 
 ### ⚙️ AWS Cloud Cost Optimization ETL System
-**Python, Boto3, CloudWatch, RDS, EC2**
-* Automated resource lifecycle scheduling and forecasting  
-* Achieved **~60% cloud compute cost reduction** across production environments  
-* Designed monitoring dashboards to track usage efficiency trends
+**Python, Boto3, CloudWatch, EC2, RDS**  
+* Automated cloud resource scheduling & forecasting  
+* Reduced monthly compute cost by **~60%**  
+* Added live monitoring dashboards for cost visibility
 
 ---
 
@@ -71,61 +49,54 @@ Data Engineer with **3.5+ years of experience** in designing **cloud-native ETL/
 
 **Delta Rising Foundation**, California  
 *Data Engineer* — *Jul 2025 – Present*  
-• Designed ETL pipelines integrating **LiDAR, Sentinel-1/2, and FIA datasets** for spatial analysis  
-• Developed **Random Forest & XGBoost** models to estimate biomass & carbon sequestration  
-• Built geospatial dashboards visualizing **carbon stock & density maps**  
-• Standardized data workflows improving research reproducibility and model accuracy  
+• Built ETL pipelines integrating **LiDAR, Sentinel-1/2 & FIA data**  
+• Developed **Random Forest / XGBoost** models for carbon stock estimation  
+• Created geospatial dashboards for carbon density mapping  
+• Improved reproducibility & standardization of spatial data workflows  
 
 **University of Central Missouri**, Warrensburg  
 *Graduate Research Assistant* — *Aug 2024 – May 2025*  
-• Built **Spark Streaming** pipelines for computer vision workloads using YOLOv8  
-• Reduced model inference latency by **40%** with optimized serving architecture  
-• Designed Snowflake-ready ETL workflows and high-performance MongoDB data models  
-• Created data-driven insights dashboards using Chart.js for strategic decision-making  
+• Developed **Spark Streaming** pipelines for large-scale computer vision  
+• Reduced YOLOv8 inference latency **40%** in deployment  
+• Designed Snowflake-ready ETL pipelines & MongoDB data models  
+• Built KPI visualization dashboards using Chart.js  
 
 **CloudEarl Solutions Pvt. Ltd**, Visakhapatnam  
 *Senior Software Engineer / Data Engineer* — *Mar 2021 – May 2023*  
-• Engineered **Kafka + PySpark** ETL pipelines processing **100K+ daily records**   
-• Implemented **dbt + Snowflake** data modeling and governance for enterprise analytics  
-• Built **multi-cloud cost optimization platform**, reducing expenses **~60%**  
-• Deployed workloads using **Docker + Kubernetes**, improving uptime to **99.9%**  
+• Built **PySpark + Kafka** ETL pipelines handling **100K+ daily records**  
+• Implemented **dbt + Snowflake** governance & transformation layers  
+• Developed **multi-cloud cost optimizer**, cutting infra cost **~60%**  
+• Containerized & deployed workloads via **Docker + Kubernetes**  
 
 **Visualthree60**, Bangalore  
 *AIML Intern* — *Feb 2021 – Mar 2021*  
-• Developed multilingual chatbot using **Hugging Face Transformers + Flask**  
-• Deployed scalable cloud-based conversational interface with language translation capability  
+• Developed multilingual NLP-based chatbot using **Transformers + Flask**  
+• Integrated translation and sentiment-driven response handling  
 
 ---
 
 ## 🎓 Education
 
-- **M.S. in Computer Science**, University of Central Missouri *(May 2025)*  
-- **B.Tech in Computer Science**, Centurion University  
+- **M.S., Computer Science**, University of Central Missouri *(May 2025)*
+- **B.Tech., Computer Science**, Centurion University
 
 ---
 
 ## 🛠 Technical Skills
 
-### Programming  
-**Python, SQL, PySpark, Java, Bash**
+<div align="center">
 
-### Data Engineering  
-**ETL/ELT, Airflow, dbt, Spark Streaming, Hadoop, Kafka, Data Modeling**
+| **Category** | **Tools & Technologies** |
+|-------------|--------------------------|
+| **Languages** | Python, SQL, PySpark, Java, Bash |
+| **Data Engineering** | ETL/ELT, Apache Airflow, dbt, Spark Streaming, Hadoop, Kafka, Data Modeling |
+| **Cloud Platforms** | AWS (S3, Lambda, Glue, Redshift, SageMaker), GCP, Azure |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Snowflake, Redshift |
+| **Machine Learning & AI** | YOLO, TensorFlow, Hugging Face Transformers, LLMs, RAG, Vector DBs (FAISS, Pinecone) |
+| **DevOps & Deployment** | Docker, Kubernetes, Jenkins, GitLab CI/CD, Linux |
+| **Visualization** | Tableau, Power BI, Plotly Dash, Chart.js |
 
-### Cloud Platforms  
-**AWS (S3, Lambda, Glue, Redshift, SageMaker), GCP, Azure**
-
-### Databases  
-**PostgreSQL, MySQL, MongoDB, Snowflake, Redshift**
-
-### Machine Learning & AI  
-**YOLO, TensorFlow, Transformers, LLMs, RAG, Vector Databases**
-
-### DevOps & Deployment  
-**Docker, Kubernetes, Jenkins, GitLab CI/CD, Linux**
-
-### Visualization  
-**Tableau, Power BI, Plotly Dash, Chart.js**
+</div>
 
 ---
 
