@@ -15,13 +15,12 @@
   </a>
 </p>
 
----
+
 
 ## 🧠 Summary
 
 Data Engineer with **3.5+ years of experience** building **cloud-native ETL pipelines**, **big data processing workflows**, and **ML-based analytics solutions**. Skilled in **Python, PySpark, SQL, Airflow, Snowflake, Kafka, AWS, and distributed systems**. Focused on performance, cost optimization, data quality, and scalable deployment. I love bridging raw data to meaningful intelligence.
 
----
 
 ## 🚀 Projects
 
@@ -43,7 +42,6 @@ Data Engineer with **3.5+ years of experience** building **cloud-native ETL pipe
 * Reduced monthly compute cost by **~60%**  
 * Added live monitoring dashboards for cost visibility
 
----
 
 ## 🏢 Experience
 
@@ -73,14 +71,12 @@ Data Engineer with **3.5+ years of experience** building **cloud-native ETL pipe
 • Developed multilingual NLP-based chatbot using **Transformers + Flask**  
 • Integrated translation and sentiment-driven response handling  
 
----
 
 ## 🎓 Education
 
 - **M.S., Computer Science**, University of Central Missouri *(May 2025)*
 - **B.Tech., Computer Science**, Centurion University
 
----
 
 ## 🛠 Technical Skills
 
@@ -98,7 +94,7 @@ Data Engineer with **3.5+ years of experience** building **cloud-native ETL pipe
 
 </div>
 
----
+
 
 ## 📈 GitHub Stats
 
@@ -108,7 +104,7 @@ Data Engineer with **3.5+ years of experience** building **cloud-native ETL pipe
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jami-manasa&theme=tokyonight&hide_border=true" width="32%"/>
 </p>
 
----
+
 
 ## 🔗 Connect
 
