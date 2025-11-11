@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Manasa Jami. </h1>   
 
 <p align="center"> 
-  <img src="https://github.com/jami-manasa/jami-manasa/blob/main/f2.png" alt="Manasa Jami" width="250"/>
+  <img src="https://github.com/jami-manasa/jami-manasa/blob/main/f3.png" alt="Manasa Jami" width="250"/>
 </p>
   
 <p align="center">
