@@ -98,7 +98,7 @@ Data Engineer with **3.5+ years of experience** building **cloud-native ETL pipe
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p    align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jami-manasa&show_icons=true&theme=tokyonight&hide_border=true" width="32%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jami-manasa&layout=compact&theme=tokyonight&hide_border=true" width="32%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jami-manasa&theme=tokyonight&hide_border=true" width="32%"/>
