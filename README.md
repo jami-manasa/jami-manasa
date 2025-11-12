@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Manasa Jami.</h1>
 
-<!-- Header with image on right -->
+<!-- Header with image on right -->  
 <div align="center">
   <table>
     <tr>
