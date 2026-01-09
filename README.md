@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Manasa Jami.</h1>        
-     
+           
 <!-- Header with image o n right -->  
 <div align="center">    
   <table>
