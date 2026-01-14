@@ -1,6 +1,5 @@
 <h1 align="center">Hello, I'm Manasa Jami.</h1>        
 
-
            
 <!-- Header with image on right -->  
 <div align="center">    
@@ -28,14 +27,14 @@
 
 ## 🧠 Summary
 
-Data Engineer with **3.5+ years of experience** building **cloud-native ETL pipelines**, **big data processing workflows**, and **ML-based analytics solutions**. Skilled in **Python, PySpark, SQL, Airflow, Snowflake, Kafka, AWS, and distributed systems**. Focused on performance, cost optimization, data quality, and scalable deployment. I love bridging raw data to meaningful intelligence.
+Data Engineer with **4.5+ years of experience** building **cloud-native ETL pipelines**, **big data processing workflows**, and **ML-based analytics solutions**. Skilled in **Python, PySpark, SQL, Airflow, Snowflake, Kafka, AWS, and distributed systems**. Focused on performance, cost optimization, data quality, and scalable deployment. I love bridging raw data to meaningful intelligence.
 
 
 ## 🚀 Projects   
 
 ### 💡 GenAI-Enhanced MuleConnect – *Intelligent Community Engagement Platform*
 **Django, MongoDB Atlas, AWS EC2/S3, LLM APIs**  
-* Built real-time alumni–student community platform  
+* Built a real-time alumni–student community platform  
 * Integrated multilingual GenAI chatbot  
 * Deployed on AWS with 99.9% uptime
 
