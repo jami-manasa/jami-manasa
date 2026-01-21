@@ -27,61 +27,77 @@
 
 ## 🧠 Summary
 
-Data Engineer with **4.5+ years of experience** building **cloud-native ETL pipelines**, **big data processing workflows**, and **ML-based analytics solutions**. Skilled in **Python, PySpark, SQL, Airflow, Snowflake, Kafka, AWS, and distributed systems**. Focused on performance, cost optimization, data quality, and scalable deployment. I love bridging raw data to meaningful intelligence.
+Data Engineer with <strong>4.5+ years of experience</strong> building <strong>cloud-native ETL pipelines</strong>, <strong>big data processing workflows</strong>, and <strong>ML-based analytics solutions</strong>. Skilled in <strong>Python, PySpark, SQL, Airflow, Snowflake, Kafka, AWS, and distributed systems</strong>. Focused on performance, cost optimization, data quality, and scalable deployment. I love bridging raw data to meaningful intelligence.
 
 
 ## 🚀 Projects   
 
-### 💡 GenAI-Enhanced MuleConnect – *Intelligent Community Engagement Platform*
-**Django, MongoDB Atlas, AWS EC2/S3, LLM APIs**  
-* Built a real-time alumni–student community platform  
-* Integrated multilingual GenAI chatbot  
-* Deployed on AWS with 99.9% uptime
+### 💡 GenAI-Enhanced MuleConnect – <em>Intelligent Community Engagement Platform</em>
+<strong>Django, MongoDB Atlas, AWS EC2/S3, LLM APIs</strong>  
+<ul>
+  <li>Built a real-time alumni–student community platform</li>
+  <li>Integrated multilingual GenAI chatbot</li>
+  <li>Deployed on AWS with 99.9% uptime</li>
+</ul>
 
-### 🎯 Smart Traffic & Audience Analytics – *Computer Vision + Streaming*
-**Spark Streaming, YOLOv8, Python, Chart.js**  
-* Processed **200+ hours** of camera feeds in real-time  
-* Analyzed pedestrian flow & dwell time  
-* Built analytics dashboards for advertising placement insights
+### 🎯 Smart Traffic & Audience Analytics – <em>Computer Vision + Streaming</em>
+<strong>Spark Streaming, YOLOv8, Python, Chart.js</strong>  
+<ul>
+  <li>Processed <strong>200+ hours</strong> of camera feeds in real-time</li>
+  <li>Analyzed pedestrian flow & dwell time</li>
+  <li>Built analytics dashboards for advertising placement insights</li>
+</ul>
 
 ### ⚙️ AWS Cloud Cost Optimization ETL System
-**Python, Boto3, CloudWatch, EC2, RDS**  
-* Automated cloud resource scheduling  
-* Reduced monthly compute cost by **~60%**  
-* Built dashboards to forecast usage & savings
+<strong>Python, Boto3, CloudWatch, EC2, RDS</strong>  
+<ul>
+  <li>Automated cloud resource scheduling</li>
+  <li>Reduced monthly compute cost by <strong>~60%</strong></li>
+  <li>Built dashboards to forecast usage & savings</li>
+</ul>
 
 
 
 ## 🏢 Experience
 
-**Delta Rising Foundation**, California  
-*Data Engineer* — *Jul 2025 – Present*  
-• Integrated **LiDAR + Sentinel imagery** into scalable ETL workflows  
-• Built biomass & carbon stock estimation models (XGBoost, RF)  
-• Developed geospatial dashboards for carbon density mapping  
+<strong>Delta Rising Foundation</strong>, California  
+<em>Data Engineer</em> — <em>Jul 2025 – Present</em>  
+<ul>
+  <li>Integrated <strong>LiDAR + Sentinel imagery</strong> into scalable ETL workflows</li>
+  <li>Built biomass & carbon stock estimation models (XGBoost, RF)</li>
+  <li>Developed geospatial dashboards for carbon density mapping</li>
+</ul>
 
-**University of Central Missouri**, Warrensburg  
-*Graduate Research Assistant* — *Aug 2024 – May 2025*  
-• Built Spark Streaming pipelines for **YOLOv8** computer vision workloads  
-• Reduced inference latency **40%**  
-• Designed Snowflake-ready ETL workflows  
+<strong>University of Central Missouri</strong>, Warrensburg  
+<em>Graduate Research Assistant</em> — <em>Aug 2024 – May 2025</em>  
+<ul>
+  <li>Built Spark Streaming pipelines for <strong>YOLOv8</strong> computer vision workloads</li>
+  <li>Reduced inference latency <strong>40%</strong></li>
+  <li>Designed Snowflake-ready ETL workflows</li>
+</ul>
 
-**CloudEarl Solutions Pvt. Ltd**, Visakhapatnam  
-*Senior Software Engineer / Data Engineer* — *Mar 2021 – May 2023*  
-• Developed **PySpark + Kafka** ETL pipelines (**100K+ daily records**)  
-• Implemented **dbt + Snowflake** modeling & governance  
-• Built a **multi-cloud cost optimization platform** saving ~60%  
+<strong>CloudEarl Solutions Pvt. Ltd</strong>, Visakhapatnam  
+<em>Senior Software Engineer / Data Engineer</em> — <em>Mar 2021 – May 2023</em>  
+<ul>
+  <li>Developed <strong>PySpark + Kafka</strong> ETL pipelines (<strong>100K+ daily records</strong>)</li>
+  <li>Implemented <strong>dbt + Snowflake</strong> modeling & governance</li>
+  <li>Built a <strong>multi-cloud cost optimization platform</strong> saving ~60%</li>
+</ul>
 
-**Visualthree60**, Bangalore  
-*AIML Intern* — *Feb 2021 – Mar 2021*  
-• Built multilingual chatbot using **Hugging Face Transformers + Flask**
+<strong>Visualthree60</strong>, Bangalore  
+<em>AIML Intern</em> — <em>Feb 2021 – Mar 2021</em>  
+<ul>
+  <li>Built multilingual chatbot using <strong>Hugging Face Transformers + Flask</strong></li>
+</ul>
 
 
 
 ## 🎓 Education
 
-- **M.S., Computer Science**, University of Central Missouri *(May 2025)*
-- **B.Tech., Computer Science**, Centurion University
+<ul>
+  <li><strong>M.S., Computer Science</strong>, University of Central Missouri <em>(May 2025)</em></li>
+  <li><strong>B.Tech., Computer Science</strong>, Centurion University</li>
+</ul>
 
 
 
@@ -89,15 +105,15 @@ Data Engineer with **4.5+ years of experience** building **cloud-native ETL pipe
 
 <div align="center">
 
-| **Category** | **Tools & Technologies** |
+| <strong>Category</strong> | <strong>Tools & Technologies</strong> |
 |-------------|--------------------------|
-| **Languages** | Python, SQL, PySpark, Java, Bash |
-| **Data Engineering** | ETL/ELT, Apache Airflow, dbt, Spark Streaming, Hadoop, Kafka, Data Modeling |
-| **Cloud Platforms** | AWS (S3, Lambda, Glue, Redshift, SageMaker), GCP, Azure |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Snowflake, Redshift |
-| **Machine Learning & AI** | YOLO, TensorFlow, Hugging Face Transformers, LLMs, RAG, Vector DBs (FAISS, Pinecone) |
-| **DevOps & Deployment** | Docker, Kubernetes, Jenkins, GitLab CI/CD, Linux |
-| **Visualization** | Tableau, Power BI, Plotly Dash, Chart.js |
+| <strong>Languages</strong> | Python, SQL, PySpark, Java, Bash |
+| <strong>Data Engineering</strong> | ETL/ELT, Apache Airflow, dbt, Spark Streaming, Hadoop, Kafka, Data Modeling |
+| <strong>Cloud Platforms</strong> | AWS (S3, Lambda, Glue, Redshift, SageMaker), GCP, Azure |
+| <strong>Databases</strong> | PostgreSQL, MySQL, MongoDB, Snowflake, Redshift |
+| <strong>Machine Learning & AI</strong> | YOLO, TensorFlow, Hugging Face Transformers, LLMs, RAG, Vector DBs (FAISS, Pinecone) |
+| <strong>DevOps & Deployment</strong> | Docker, Kubernetes, Jenkins, GitLab CI/CD, Linux |
+| <strong>Visualization</strong> | Tableau, Power BI, Plotly Dash, Chart.js |
 
 </div>
 
@@ -121,6 +137,9 @@ Data Engineer with **4.5+ years of experience** building **cloud-native ETL pipe
   </a>
   <a href="https://github.com/jami-manasa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1W8EMrbzI3u9vHxy8zxEINOaq7dXYN5fd/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
 
