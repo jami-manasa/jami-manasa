@@ -60,6 +60,7 @@ Data Engineer with <strong>4.5+ years of experience</strong> building <strong>cl
 
 ## 🏢 Experience
 
+
 <strong>Delta Rising Foundation</strong>, California  
 <em>Data Engineer</em> — <em>Jul 2025 – Present</em>  
 <ul>
