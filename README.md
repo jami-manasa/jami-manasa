@@ -30,7 +30,7 @@ Data Engineer with <strong>4.5+ years of experience</strong> building <strong>cl
 
 ## 🚀 Projects   
 
-### 💡 GenAI-Enhanced MuleConnect – <em> Intelligent Community Engagement Platform</em>
+###  GenAI-Enhanced MuleConnect – <em> Intelligent Community Engagement Platform</em>
 <strong>Django, MongoDB Atlas, AWS EC2/S3, LLM APIs</strong>  
 <ul>
   <li>Built a real-time alumni–student community platform</li>
