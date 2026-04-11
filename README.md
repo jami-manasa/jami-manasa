@@ -25,7 +25,7 @@
 
 ## 🧠 Summary
 
-Data Engineer with <strong>4.5+ years of experience</strong> building <strong>cloud-native ETL pipelines</strong>, <strong>big data processing workflows</strong>, and <strong>ML-based analytics solutions</strong>. Skilled in <strong>Python, PySpark, SQL, Airflow, Snowflake, Kafka, AWS, and distributed systems</strong>. Focused on performance, cost optimization, data quality, and scalable deployment. I love bridging raw data to meaningful intelligence.
+Data Engineer with <strong> 3+ years of experience</strong> building <strong>cloud-native ETL pipelines</strong>, <strong>big data processing workflows</strong>, and <strong>ML-based analytics solutions</strong>. Skilled in <strong>Python, PySpark, SQL, Airflow, Snowflake, Kafka, AWS, and distributed systems</strong>. Focused on performance, cost optimization, data quality, and scalable deployment. I love bridging raw data to meaningful intelligence.
 
 
 ## 🚀 Projects   
