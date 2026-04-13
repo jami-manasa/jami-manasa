@@ -2,7 +2,7 @@
 <!-- Header with image on right -->  
 <div align="center">    
   <table>
-    <tr>
+    <tr>   
       <td>
         <p align="center">
           <strong>Data Engineer | AI/ML Developer | Cloud Solutions Architect</strong><br/>
