@@ -10,7 +10,7 @@
         </p>
       </td>
       <td>
-        <img src="https://github.com/jami-manasa/jami-manasa/blob/main/f2.png" width="220" alt="Manasa"/>
+        <!-- <img src="https://github.com/jami-manasa/jami-manasa/blob/main/f2.png" width="220" alt="Manasa"/> -->
       </td>
     </tr>
   </table>
@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/jami-manasa">
-    <!-- <img src="https://komarev.com/ghpvc/?username=jami-manasa&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" /> -->
+    <img src="https://komarev.com/ghpvc/?username=jami-manasa&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
   </a>
 </p>
 
