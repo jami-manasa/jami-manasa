@@ -110,7 +110,7 @@ I love building the invisible layer that makes modern products smarter.
 
 ### CloudEarl Solutions Pvt. Ltd
 **Senior Software Engineer / Data Engineer**  
-*Mar 2021 – May 2023*
+*Mar 2020 – May 2023*
 
 - Developed **PySpark + Kafka** ETL pipelines for **100K+ daily records**
 - Implemented **dbt + Snowflake** modeling and governance
