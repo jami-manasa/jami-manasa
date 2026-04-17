@@ -21,7 +21,7 @@
 ---
 
 ## About Me
-<img align="right" alt="Classy tech woman" width="320" src="./assets/tech-girl.png">
+<img align="right" alt="Animated tech woman" width="320" src="./assets/tech-girl.gif">
 
 
 
