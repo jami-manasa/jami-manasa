@@ -21,7 +21,8 @@
 ---
 
 ## About Me
-<img align="right" alt="Cartoon tech woman" width="320" src="./assets/tech-girl-cartoon.png">
+<img align="right" alt="Classy tech woman" width="320" src="./assets/tech-girl.png">
+
 
 
 I’m **Manasa Jami**, a **Data Engineer, AI/ML Developer, and Cloud Solutions Architect** with 3+ years of experience building systems that make data useful at scale.
