@@ -22,8 +22,8 @@
 
 ## About Me
 
-<img src="https://github.com/jami-manasa/jami-manasa/blob/main/f2.png" width="220" alt="Manasa"/>
-
+<!-- <img src="https://github.com/jami-manasa/jami-manasa/blob/main/f2.png" width="220" alt="Manasa"/> -->
+<img align="right" alt="Coding" width="320"  src="https://github.com/jami-manasa/jami-manasa/blob/main/f2.png" >
 
 I’m **Manasa Jami**, a **Data Engineer, AI/ML Developer, and Cloud Solutions Architect** with 3+ years of experience building systems that make data useful at scale.
 
