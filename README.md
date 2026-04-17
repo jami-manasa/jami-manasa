@@ -21,7 +21,7 @@
 ---
 
 ## About Me
-<img align="right" alt="Animated tech woman" width="320" src="[./assets/tech-girl.gif](https://github.com/jami-manasa/jami-manasa/blob/main/f2.png)">
+ <img src="https://github.com/jami-manasa/jami-manasa/blob/main/f2.png" width="220" alt="Manasa"/>
 
 
 
