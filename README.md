@@ -74,7 +74,7 @@ I love building the invisible layer that makes modern products smarter.
 **Computer Vision + Streaming Intelligence**  
 `Spark Streaming` `YOLOv8` `Python` `Chart.js`
 
-- Processed **200+ hours** of camera feeds in real time
+- Processed **200+ hours** of camera feeds in real time 
 - Analyzed pedestrian flow and dwell time
 - Built dashboards for ad-placement insights
 
