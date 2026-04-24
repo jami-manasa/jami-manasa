@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Manasa%20Jami&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20AI%2FML%20Developer%20%7C%20Cloud%20Solutions%20Architect&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api? type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Manasa%20Jami&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20AI%2FML%20Developer%20%7C%20Cloud%20Solutions%20Architect&descAlignY=58&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+scalable+ETL+pipelines.;Turning+raw+data+into+intelligence.;Designing+AI-powered+analytics+systems.;Optimizing+cloud+platforms+for+real-world+impact." alt="Typing SVG" />
          
