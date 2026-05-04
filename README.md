@@ -1,4 +1,4 @@
-<div align="center">   
+<div align="center">      
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api? type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Manasa%20Jami&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20AI%2FML%20Developer%20%7C%20Cloud%20Solutions%20Architect&descAlignY=58&descSize=18" />
