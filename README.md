@@ -21,7 +21,7 @@ In the beginning there was raw data: messy, scattered, and silent.
 I'm **Manasa**, a **Data Engineer with 4+ years** of experience. I build the forces that pull scattered data together into something people can actually use: pipelines, streaming systems, and ML-powered analytics.
 
 ```text
-🛰️  Home base   : Atlanta, USA
+🛰️  Home base   : USA
 🌍  Launched    : Odisha, India
 🎓  Training    : M.S. Computer Science, University of Central Missouri
 📡  Signal      : Production Support Engineer, keeping enterprise
