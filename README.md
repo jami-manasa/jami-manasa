@@ -1,178 +1,143 @@
-<div align="center">      
- 
-<img width="100%" src="https://capsule-render.vercel.app/api? type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Manasa%20Jami&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20AI%2FML%20Developer%20%7C%20Cloud%20Solutions%20Architect&descAlignY=58&descSize=18" />
-   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+scalable+ETL+pipelines.;Turning+raw+data+into+intelligence.;Designing+AI-powered+analytics+systems.;Optimizing+cloud+platforms+for+real-world+impact." alt="Typing SVG" />     
-<p>
-  <a href="https://github.com/jami-manasa">
-    <img src="https://komarev.com/ghpvc/?username=jami-manasa&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/jami-manasa">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1W8EMrbzI3u9vHxy8zxEINOaq7dXYN5fd/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-View-16A34A?style=for-the-badge&logo=googledrive&logoColor=white"/>
-  </a>
-</p>
-
-</div>
-
----
-
-## About Me
-
-<!-- <img src="https://github.com/jami-manasa/jami-manasa/blob/main/f2.png" width="220" alt="Manasa"/> -->
-<img align="right" alt="Coding" width="320"  src="https://github.com/jami-manasa/jami-manasa/blob/main/f2.png" >
-
-I’m **Manasa Jami**, a **Data Engineer, AI/ML Developer, and Cloud Solutions Architect** with 3+ years of experience building systems that make data useful at scale.
-
-I work across:
-- cloud-native ETL and ELT pipelines
-- Spark and streaming architectures
-- ML and GenAI-powered analytics
-- cost-optimized cloud platforms
-- dashboards and intelligence systems that help people act fast
-
-I love building the invisible layer that makes modern products smarter.
-
----
-
-## Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,aws,docker,kubernetes,tensorflow,mongodb,mysql,postgres,linux,git" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=200&section=header&text=Manasa%20Jami&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Engineer%20%7C%20Pipelines%20%7C%20Cloud%20%7C%20Applied%20ML&descAlignY=56&descSize=18" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=%24+run+pipeline+--profile+manasa;extract()+%E2%86%92+transform()+%E2%86%92+load()+%E2%86%92+impact();status%3A+SUCCESS+%7C+rows%3A+100K%2B%2Fday" alt="Typing SVG" />
+
+<a href="https://linkedin.com/in/jami-manasa"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1W8EMrbzI3u9vHxy8zxEINOaq7dXYN5fd/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-16A34A?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=jami-manasa&label=profile+views&color=0ea5e9&style=for-the-badge" />
 
 </div>
 
-| Area | Technologies |
+---
+
+### `> SELECT * FROM engineers WHERE name = 'Manasa Jami';`
+
+<img align="right" width="280" src="https://github.com/jami-manasa/jami-manasa/raw/main/f2.png" alt="Manasa"/>
+
+| column | value |
 |---|---|
-| Languages | Python, SQL, PySpark, Java, Bash |
-| Data Engineering | Airflow, dbt, Spark Streaming, Hadoop, Kafka, ETL/ELT ,Data Bricks|
-| Cloud | AWS, GCP, Azure |
-| Databases | PostgreSQL, MySQL, MongoDB, Snowflake, Redshift,MongoDb |
-| AI / ML | YOLO, TensorFlow, Hugging Face, LLMs, RAG, FAISS, Pinecone |
-| DevOps | Docker, Kubernetes, Jenkins, GitLab CI/CD, Linux |
-| Visualization | Tableau, Power BI, Plotly Dash, Chart.js |
+| `role` | Data Engineer |
+| `experience_years` | 4+ |
+| `currently` | Production Support Engineer, keeping enterprise mortgage systems running (SQL, Python, APIs, cloud) |
+| `builds` | ETL/ELT pipelines, streaming systems, ML-backed analytics |
+| `domains` | Fintech, climate tech, computer vision |
+| `education` | M.S. Computer Science, University of Central Missouri |
+| `based_in` | Atlanta, USA |
+
+`1 row returned`
 
 ---
 
-## Featured Projects
+### How I think about data
 
-### GenAI-Enhanced MuleConnect
-**Intelligent Community Engagement Platform**  
-`Django` `MongoDB Atlas` `AWS EC2/S3` `LLM APIs`
+```mermaid
+flowchart LR
+    A[Raw data<br/>APIs, logs, sensors, satellites] --> B[Ingest<br/>Kafka, Airflow]
+    B --> C[Transform<br/>PySpark, dbt, Databricks]
+    C --> D[Store<br/>Snowflake, Redshift, Postgres]
+    D --> E[Serve<br/>Dashboards, ML models, LLM apps]
+    E --> F((Decisions))
+```
 
-- Built a real-time alumni-student community platform
-- Integrated a multilingual GenAI chatbot
-- Deployed on AWS with **99.9% uptime**
-
----
-
-### Smart Traffic & Audience Analytics
-**Computer Vision + Streaming Intelligence**  
-`Spark Streaming` `YOLOv8` `Python` `Chart.js`
-
-- Processed **200+ hours** of camera feeds in real time 
-- Analyzed pedestrian flow and dwell time
-- Built dashboards for ad-placement insights
+Most people see the dashboard. I build everything to the left of it.
 
 ---
 
-### AWS Cloud Cost Optimization ETL System
-**Infrastructure Cost Intelligence**  
-`Python` `Boto3` `CloudWatch` `EC2` `RDS`
+### Career run log
 
-- Automated cloud resource scheduling
-- Reduced monthly compute cost by **~60%**
-- Built forecasting dashboards for usage and savings
+```text
+$ cat career.log
 
----
+[2020-03 → 2023-05]  CloudEarl Solutions        Data Engineer
+    ├─ PySpark + Kafka ETL pipelines processing 100K+ records/day
+    ├─ dbt + Snowflake data models with governance checks
+    └─ multi-cloud cost optimization platform        status=SUCCESS
 
-## Experience
+[2024-08 → 2025-05]  Univ. of Central Missouri  Graduate Research Assistant
+    ├─ Spark Streaming pipelines feeding YOLOv8 inference
+    ├─ cut inference latency by 40%
+    └─ Snowflake-ready ETL workflows                 status=SUCCESS
 
-### Delta Rising Foundation
-**Data Engineer**  
-*Jul 2025 – Present*
+[2025-07 → 2026-05]  Delta Rising Foundation    Data Engineer (AI/ML)
+    ├─ LiDAR + Sentinel satellite imagery into scalable ETL
+    ├─ biomass and carbon stock models (XGBoost, Random Forest)
+    └─ geospatial dashboards for carbon density      status=SUCCESS
 
-- Integrated **LiDAR + Sentinel imagery** into scalable ETL workflows
-- Built biomass and carbon stock estimation models using **XGBoost** and **Random Forest**
-- Developed geospatial dashboards for carbon density mapping
-
-### University of Central Missouri
-**Graduate Research Assistant**  
-*Aug 2024 – May 2025*
-
-- Built Spark Streaming pipelines for **YOLOv8** workloads
-- Reduced inference latency by **40%**
-- Designed Snowflake-ready ETL workflows
-
-### CloudEarl Solutions Pvt. Ltd
-**Senior Software Engineer / Data Engineer**  
-*Mar 2020 – May 2023*
-
-- Developed **PySpark + Kafka** ETL pipelines for **100K+ daily records**
-- Implemented **dbt + Snowflake** modeling and governance
-- Built a multi-cloud cost optimization platform saving **~60%**
+[2026-06 → now]      HomeBridge Financial       Production Support Engineer
+    ├─ support and debug enterprise loan platform integrations
+    ├─ .NET APIs, SQL, Python, Azure Service Bus
+    └─ third-party data integrations                 status=RUNNING ●
+```
 
 ---
 
-## Education
+### Featured builds
 
-- **M.S. in Computer Science** — University of Central Missouri
-- **B.Tech. in Computer Science** — Centurion University
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Smart Traffic Analytics**
+`Spark Streaming` `YOLOv8` `Chart.js`
+
+Processed 200+ hours of camera footage in real time to measure foot traffic and dwell time for ad placement.
+
+</td>
+<td width="33%" valign="top">
+
+**Cloud Cost Optimizer**
+`Python` `Boto3` `CloudWatch`
+
+Scheduled idle EC2/RDS resources automatically and forecasted spend. Cut monthly compute cost by ~60%.
+
+</td>
+<td width="33%" valign="top">
+
+**MuleConnect + GenAI**
+`Django` `MongoDB Atlas` `AWS` `LLMs`
+
+Alumni-student community platform with a multilingual AI chatbot, deployed on AWS.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Analytics
+### Stack
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jami-manasa&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jami-manasa&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=jami-manasa&theme=tokyonight&hide_border=true" />
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=jami-manasa&theme=algolia&no-frame=true&row=1&column=6" />
-
+<img src="https://skillicons.dev/icons?i=python,java,aws,gcp,azure,docker,kubernetes,postgres,mysql,mongodb,linux,git,tensorflow" />
 </div>
+
+```yaml
+languages:     [Python, SQL, PySpark, Java, Bash, C#]
+pipelines:     [Airflow, dbt, Spark Streaming, Kafka, Databricks, Hadoop]
+warehouses:    [Snowflake, Redshift, PostgreSQL, MySQL, MongoDB]
+cloud:         [AWS, Azure, GCP]
+ml_and_genai:  [TensorFlow, XGBoost, YOLO, Hugging Face, RAG, FAISS, Pinecone]
+devops:        [Docker, Kubernetes, Jenkins, GitLab CI/CD]
+visualization: [Tableau, Power BI, Plotly Dash]
+```
 
 ---
 
-## Contribution Graph
+### Currently
 
-<div align="center">
+- 🔧 Learning: deeper Databricks internals (writing a LinkedIn series on it)
+- 🤝 Open to: data engineering roles and pipeline-heavy problems
+- 💬 Ask me about: streaming pipelines, Snowflake modeling, cutting cloud bills
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jami-manasa&theme=react-dark&hide_border=true&area=true" />
-
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/jami-manasa">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/jami-manasa">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://drive.google.com/file/d/1W8EMrbzI3u9vHxy8zxEINOaq7dXYN5fd/view?usp=sharing">
-  <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a>
-
-</div>
-
-
-    
 ---
 
 <div align="center">
 
-### I build systems that scale quietly and intelligence that speaks clearly.
+```text
+pipeline complete · 0 errors · always running
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:0f172a&height=110&section=footer" />
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:0f172a&height=120&section=footer" />
