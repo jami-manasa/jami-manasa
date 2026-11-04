@@ -65,7 +65,7 @@ $ cat career.log
     ├─ biomass and carbon stock models (XGBoost, Random Forest)
     └─ geospatial dashboards for carbon density      status=SUCCESS
 
-[2026-06 → now]      HomeBridge Financial       Production Support Engineer
+[2026-06 → now]      HomeBridge Financial       Data Engineer
     ├─ support and debug enterprise loan platform integrations
     ├─ .NET APIs, SQL, Python, Azure Service Bus
     └─ third-party data integrations                 status=RUNNING ●
