@@ -1,106 +1,150 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1e0b3b,100:0e7490&height=170&section=header&text=Manasa%20Jami&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=data%20engineer&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:1e0b3b,75:3b0764,100:0e7490&height=230&section=header&text=Manasa%20Jami&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Data%20Engineer%20%7C%20Building%20the%20universe%20behind%20the%20data&descAlignY=56&descSize=17" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=C4B5FD&center=true&vCenter=true&width=600&lines=%24+git+log+--author%3D%22manasa%22;loading+4%2B+years+of+history..." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1200&color=C4B5FD&center=true&vCenter=true&width=850&lines=Initializing+universe...;Every+dataset+is+a+galaxy+waiting+to+be+mapped.;Raw+data+%E2%86%92+stars+%E2%86%92+constellations+%E2%86%92+meaning.;Mission+status%3A+in+orbit+%F0%9F%9A%80" alt="Typing SVG" />
+
+<a href="https://linkedin.com/in/jami-manasa"><img src="https://img.shields.io/badge/LinkedIn-Open%20Channel-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1W8EMrbzI3u9vHxy8zxEINOaq7dXYN5fd/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Flight%20Log-0E7490?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=jami-manasa&label=Visitors%20from%20Earth&color=7c3aed&style=for-the-badge" />
 
 </div>
 
-Hi, I'm Manasa. I build data pipelines for a living.
-
-People usually explain themselves with a bio. I'd rather show you my repo.
-
 ---
 
-### `$ git log --oneline --graph`
+## 🌌 Origin Story
+
+<img align="right" width="260" src="https://github.com/jami-manasa/jami-manasa/raw/main/f2.png" alt="Manasa"/>
+
+In the beginning there was raw data: messy, scattered, and silent.
+
+I'm **Manasa**, a **Data Engineer with 4+ years** of experience. I build the forces that pull scattered data together into something people can actually use: pipelines, streaming systems, and ML-powered analytics.
 
 ```text
-* a3f9c21 (HEAD -> main) feat: production support at HomeBridge Financial      2026
-|          keeping mortgage systems running. .NET APIs, SQL, Azure Service Bus
-|
-* 7be41d0  feat: satellite + LiDAR data into carbon maps, Delta Rising         2025
-|          XGBoost and Random Forest models, geospatial dashboards
-|
-* 5c2e8aa  perf: made a YOLOv8 video pipeline 40% faster                       2024
-|          research assistant at Univ. of Central Missouri, Spark Streaming
-|
-* 19d7f3b  chore: moved across the world for an M.S. in Computer Science       2023
-|
-* e04b6c9  feat: first real pipelines at CloudEarl Solutions                   2020
-|          Kafka + PySpark, 100K+ records a day, dbt + Snowflake models
-|
-* 0000001  init: B.Tech in CS, Odisha, India
+🛰️  Home base   : USA
+🌍  Launched    : Odisha, India
+🎓  Training    : M.S. Computer Science, University of Central Missouri
+📡  Signal      : Production Support Engineer, keeping enterprise
+                  mortgage systems in stable orbit
 ```
 
 ---
 
-### `$ git branch --list "projects/*"`
+## 🪐 My Solar System
 
-```text
-  projects/traffic-vision       YOLOv8 + Spark Streaming over 200+ hours of camera feeds
-                                to see where people walk and where they stop
-
-  projects/cloud-cost-cleaner   shuts down idle EC2 and RDS on a schedule,
-                                cut monthly compute cost by ~60%
-
-  projects/muleconnect          alumni + student community site with a
-                                multilingual AI chatbot, Django + AWS
+```mermaid
+flowchart TD
+    SUN((☀️ Manasa<br/>Data Engineer))
+    SUN --- P1[🪐 CloudEarl Solutions<br/>2020 to 2023<br/>ETL and Kafka pipelines]
+    SUN --- P2[🌑 Univ. of Central Missouri<br/>2024 to 2025<br/>Streaming + Computer Vision]
+    SUN --- P3[🌍 Delta Rising Foundation<br/>2025 to 2026<br/>Satellites + Climate Data]
+    SUN --- P4[🚀 HomeBridge Financial<br/>2026 to now<br/>Fintech Integrations]
 ```
 
 ---
 
-### `$ cat requirements.txt`
+## 🛸 Flight Log
 
 ```text
-python
-sql
-pyspark
-airflow
-dbt
-kafka
-snowflake
-databricks
-aws | azure | gcp
-docker
-postgres
-tensorflow
-patience          # for debugging other people's pipelines
+╔══════════════════════════════════════════════════════════════════╗
+║  MISSION CONTROL :: CAREER TRAJECTORY                            ║
+╚══════════════════════════════════════════════════════════════════╝
+
+🪐 PLANET 1  CloudEarl Solutions          [2020-03 → 2023-05]
+   ├─ PySpark + Kafka pipelines moving 100K+ records a day
+   ├─ dbt + Snowflake models with data quality checks
+   └─ multi-cloud cost optimization platform
+   STATUS: ✅ orbit completed
+
+🌑 PLANET 2  Univ. of Central Missouri    [2024-08 → 2025-05]
+   ├─ Spark Streaming pipelines feeding YOLOv8 models
+   ├─ cut inference latency by 40%
+   └─ Snowflake-ready ETL workflows
+   STATUS: ✅ orbit completed
+
+🌍 PLANET 3  Delta Rising Foundation      [2025-07 → 2026-05]
+   ├─ LiDAR + Sentinel satellite imagery into scalable ETL
+   ├─ carbon stock models with XGBoost + Random Forest
+   └─ geospatial dashboards mapping carbon density
+   STATUS: ✅ orbit completed
+
+🚀 PLANET 4  HomeBridge Financial         [2026-06 → now]
+   ├─ debug and support enterprise loan platform integrations
+   ├─ .NET APIs, SQL, Python, Azure Service Bus
+   └─ third-party data integrations
+   STATUS: 🟢 currently in orbit
 ```
 
 ---
 
-### `$ git status`
+## ☄️ Missions Launched
 
-```text
-On branch main
-Changes not committed yet:
+<table>
+<tr>
+<td width="33%" valign="top">
 
-    modified:   databricks-deep-dive/     writing a series on LinkedIn
-    modified:   photography/              learning, still lots of blurry shots
+### 🔭 Mission: Watchtower
+**Smart Traffic Analytics**
+`Spark Streaming` `YOLOv8` `Chart.js`
 
-Untracked files:
+Scanned 200+ hours of camera footage in real time to track foot traffic and dwell time for ad placement.
 
-    cooking-blog/                         someday
+</td>
+<td width="33%" valign="top">
+
+### 🌠 Mission: Gravity Well
+**Cloud Cost Optimizer**
+`Python` `Boto3` `CloudWatch`
+
+Pulled idle EC2/RDS resources offline on a schedule and forecasted spend. Cut monthly compute cost by ~60%.
+
+</td>
+<td width="33%" valign="top">
+
+### 🛰️ Mission: Signal
+**MuleConnect + GenAI**
+`Django` `MongoDB Atlas` `AWS` `LLMs`
+
+Alumni-student community platform with a multilingual AI chatbot, deployed on AWS.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ✨ Constellations I Navigate By
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,aws,gcp,azure,docker,kubernetes,postgres,mysql,mongodb,linux,git,tensorflow&theme=dark" />
+</div>
+
+```yaml
+⭐ Language Nebula      : [Python, SQL, PySpark, Java, Bash, C#]
+🌌 Pipeline Galaxy      : [Airflow, dbt, Spark Streaming, Kafka, Databricks, Hadoop]
+🪐 Storage Planets      : [Snowflake, Redshift, PostgreSQL, MySQL, MongoDB]
+☁️ Cloud Belt           : [AWS, Azure, GCP]
+🧠 Intelligence Cluster : [TensorFlow, XGBoost, YOLO, Hugging Face, RAG, FAISS, Pinecone]
+🛠️ Launch Systems       : [Docker, Kubernetes, Jenkins, GitLab CI/CD]
+🔭 Observatories        : [Tableau, Power BI, Plotly Dash]
 ```
 
 ---
 
-### `$ git remote -v`
+## 📡 Incoming Transmission
 
-```text
-linkedin   linkedin.com/in/jami-manasa
-resume     link below
-```
-
-[LinkedIn](https://linkedin.com/in/jami-manasa) · [Resume](https://drive.google.com/file/d/1W8EMrbzI3u9vHxy8zxEINOaq7dXYN5fd/view?usp=sharing)
+- 🔭 **Exploring:** deeper Databricks internals (writing a LinkedIn series on it)
+- 🤝 **Open to:** data engineering roles and pipeline-heavy problems
+- 💬 **Ask me about:** streaming pipelines, Snowflake modeling, cutting cloud bills
 
 ---
 
 <div align="center">
 
-### `$ git shortlog --summary`
+```text
+🌌  The universe is made of data. I just build the gravity.  🌌
+```
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=jami-manasa&show_icons=true&hide_border=true&bg_color=0d0221&title_color=c4b5fd&icon_color=22d3ee&text_color=e9d5ff" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jami-manasa&layout=compact&hide_border=true&bg_color=0d0221&title_color=c4b5fd&text_color=e9d5ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,50:3b0764,100:000000&height=120&section=footer" />
 
 </div>
